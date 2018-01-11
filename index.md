@@ -2,8 +2,7 @@
 ## Coding for everyday unitil I find a Job
 
 ### Day 1
- - Make login function work for React Chat app
- - codewars
+[Goals](https://ethan-liao.github.io/Blog/Day1)
  
 
 

@@ -1,9 +1,3 @@
-
----
-title: This is my Day2 programming goals
-layout: post
----
-
 ### Goals for D2
 - [ ] Codewars 1 kata
 - [X] Drumkit

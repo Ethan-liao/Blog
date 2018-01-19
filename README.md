@@ -1,3 +1,7 @@
+## My blog project
+Link is {here}(https://ethan-liao.github.io/Blog/), so much to learn with limited energy and time. 
+
+
 ## Things to read up
 ### JS
 - [EloquentJS](http://eloquentjavascript.net/)

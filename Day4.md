@@ -1,4 +1,4 @@
-### Goals for D3
+### Goals for Day 4
 - [X] Finished React course section3 Nodejs
 
 

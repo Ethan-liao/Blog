@@ -1,4 +1,4 @@
-### Goals for D2
+### Goals for Day 2
 - [ ] Codewars 1 kata
 - [X] Drumkit
 - [X] finish react tutorial up to section 3

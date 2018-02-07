@@ -19,3 +19,9 @@
 [Day 8](https://ethan-liao.github.io/Blog/Day8)
 
 [Day 9](https://ethan-liao.github.io/Blog/Day9)
+
+[Day 10](https://ethan-liao.github.io/Blog/Day10)
+
+[Day 11](https://ethan-liao.github.io/Blog/Day11)
+
+[Day 24](https://ethan-liao.github.io/Blog/Day24)

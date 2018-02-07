@@ -1,4 +1,4 @@
-### Goals for Day 26
+### Goals for Day 24
 - [X] Fixed up personal site
 - [X] Added carousel to personal site
 - [X] fixed picture resizing

@@ -1,7 +1,10 @@
 ## My blog project
-Link is [here](https://ethan-liao.github.io/Blog/), so much to learn with limited energy and time. 
+Link is [here](https://ethan-liao.github.io/Blog/), so much to learn with limited energy and time.
 
-
+### Things to get familiar with
+- SCSS LESS
+- Elm
+- redux
 ## Things to read up
 ### JS
 - [EloquentJS](http://eloquentjavascript.net/)
@@ -15,7 +18,7 @@ Link is [here](https://ethan-liao.github.io/Blog/), so much to learn with limite
 - [Managing mobile performance](https://www.smashingmagazine.com/2016/03/managing-mobile-performance-optimization/)
 - [Web fundamentals to WebApp specs](https://developers.google.com/web/fundamentals/) by Google
 
-### Web articles 
+### Web articles
 - [Design inspiration](https://www.awwwards.com/)
 - [fundamentals of webdesign in 4min](https://jgthms.com/web-design-in-4-minutes/)
 - [Learn about cross site scripting - squash bugs](https://xss-game.appspot.com/)

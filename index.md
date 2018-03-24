@@ -24,4 +24,4 @@
 
 [Day 11](https://ethan-liao.github.io/Blog/Day11)
 
-[Day 24](https://ethan-liao.github.io/Blog/Day24)
+[Day 26](https://ethan-liao.github.io/Blog/Day26)
